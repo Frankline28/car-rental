@@ -1,0 +1,381 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "email": "admin@driveease.com",
+      "password": "password123",
+      "name": "System Admin",
+      "role": "admin"
+    },
+    {
+      "id": "customer-1",
+      "email": "customer@gmail.com",
+      "password": "password123",
+      "name": "John Doe",
+      "role": "customer"
+    },
+    {
+      "id": "user-1776488497854",
+      "email": "frank@gmail.com",
+      "password": "123456",
+      "name": "frank",
+      "role": "customer"
+    }
+  ],
+  "cars": [
+    {
+      "id": "car-1",
+      "make": "Tata",
+      "model": "Safari",
+      "year": 2024,
+      "type": "Luxury",
+      "rate": 90,
+      "total": 5,
+      "available": 5,
+      "features": [
+        "Panoramic Sunroof",
+        "Ventilated Seats",
+        "JBL Sound System"
+      ],
+      "image": "https://picsum.photos/seed/safari/800/600"
+    },
+    {
+      "id": "car-2",
+      "make": "Mahindra",
+      "model": "Thar",
+      "year": 2023,
+      "type": "SUV",
+      "rate": 65,
+      "total": 8,
+      "available": 8,
+      "features": [
+        "4x4 Drivetrain",
+        "Convertible Top",
+        "Touchscreen Infotainment"
+      ],
+      "image": "https://picsum.photos/seed/thar/800/600"
+    },
+    {
+      "id": "car-3",
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2024,
+      "type": "Sedan",
+      "rate": 35,
+      "total": 12,
+      "available": 12,
+      "features": [
+        "Fuel Efficient",
+        "Keyless Entry",
+        "Automatic Climate Control"
+      ],
+      "image": "https://picsum.photos/seed/swift/800/600"
+    },
+    {
+      "id": "car-4",
+      "make": "Mahindra",
+      "model": "XUV700",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 85,
+      "total": 6,
+      "available": 6,
+      "features": [
+        "ADAS Technology",
+        "Dual Screen Dashboard",
+        "Memory Seats"
+      ],
+      "image": "https://picsum.photos/seed/xuv700/800/600"
+    },
+    {
+      "id": "car-5",
+      "make": "Tata",
+      "model": "Nexon",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 55,
+      "total": 10,
+      "available": 10,
+      "features": [
+        "5-Star Safety",
+        "iRA Connected Tech",
+        "Wireless Charger"
+      ],
+      "image": "https://picsum.photos/seed/nexon/800/600"
+    },
+    {
+      "id": "car-6",
+      "make": "Hyundai",
+      "model": "Creta",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 70,
+      "total": 7,
+      "available": 7,
+      "features": [
+        "Panoramic Sunroof",
+        "BlueLink App",
+        "Drive Modes"
+      ],
+      "image": "https://picsum.photos/seed/creta/800/600"
+    },
+    {
+      "id": "car-7",
+      "make": "Maruti Suzuki",
+      "model": "Baleno",
+      "year": 2024,
+      "type": "Sedan",
+      "rate": 40,
+      "total": 8,
+      "available": 8,
+      "features": [
+        "Heads-up Display",
+        "360 View Camera",
+        "SmartPlay Pro"
+      ],
+      "image": "https://picsum.photos/seed/baleno/800/600"
+    },
+    {
+      "id": "car-8",
+      "make": "Kia",
+      "model": "Seltos",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 75,
+      "total": 6,
+      "available": 6,
+      "features": [
+        "Bose Audio",
+        "HUD Display",
+        "UVO Connect"
+      ],
+      "image": "https://picsum.photos/seed/seltos/800/600"
+    },
+    {
+      "id": "car-9",
+      "make": "Tata",
+      "model": "Tiago",
+      "year": 2023,
+      "type": "Sedan",
+      "rate": 30,
+      "total": 15,
+      "available": 15,
+      "features": [
+        "Harman System",
+        "Digital Cluster",
+        "Solid Build"
+      ],
+      "image": "https://picsum.photos/seed/tiago/800/600"
+    },
+    {
+      "id": "car-10",
+      "make": "Mahindra",
+      "model": "Scorpio-N",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 80,
+      "total": 5,
+      "available": 5,
+      "features": [
+        "4XPLOR Tech",
+        "Sony Sound",
+        "Captain Seats"
+      ],
+      "image": "https://picsum.photos/seed/scorpion/800/600"
+    },
+    {
+      "id": "car-11",
+      "make": "Maruti Suzuki",
+      "model": "Ertiga",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 50,
+      "total": 9,
+      "available": 9,
+      "features": [
+        "7-Seater",
+        "Hybrid Tech",
+        "Dual AC"
+      ],
+      "image": "https://picsum.photos/seed/ertiga/800/600"
+    },
+    {
+      "id": "car-12",
+      "make": "Tata",
+      "model": "Harrier",
+      "year": 2024,
+      "type": "Luxury",
+      "rate": 95,
+      "total": 4,
+      "available": 4,
+      "features": [
+        "Dark Edition",
+        "Terrain Modes",
+        "9-Speaker System"
+      ],
+      "image": "https://picsum.photos/seed/harrier/800/600"
+    },
+    {
+      "id": "car-13",
+      "make": "Maruti Suzuki",
+      "model": "Brezza",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 45,
+      "total": 10,
+      "available": 10,
+      "features": [
+        "Sunroof",
+        "Paddle Shifters",
+        "Smart Hybrid"
+      ],
+      "image": "https://picsum.photos/seed/brezza/800/600"
+    },
+    {
+      "id": "car-14",
+      "make": "Hyundai",
+      "model": "Venue",
+      "year": 2023,
+      "type": "SUV",
+      "rate": 48,
+      "total": 11,
+      "available": 11,
+      "features": [
+        "Paddleshifters",
+        "Air Purifier",
+        "Electric Sunroof"
+      ],
+      "image": "https://picsum.photos/seed/venue/800/600"
+    },
+    {
+      "id": "car-15",
+      "make": "Mahindra",
+      "model": "Bolero",
+      "year": 2023,
+      "type": "SUV",
+      "rate": 40,
+      "total": 14,
+      "available": 14,
+      "features": [
+        "Rugged Design",
+        "High Ground Clearance",
+        "7-Seater Layout"
+      ],
+      "image": "https://picsum.photos/seed/bolero/800/600"
+    },
+    {
+      "id": "car-16",
+      "make": "MG",
+      "model": "Hector",
+      "year": 2024,
+      "type": "Luxury",
+      "rate": 100,
+      "total": 3,
+      "available": 3,
+      "features": [
+        "Internet Inside",
+        "Panoramic Sunroof",
+        "Large Touchscreen"
+      ],
+      "image": "https://picsum.photos/seed/hector/800/600"
+    },
+    {
+      "id": "car-17",
+      "make": "Maruti Suzuki",
+      "model": "Alto K10",
+      "year": 2023,
+      "type": "Sedan",
+      "rate": 25,
+      "total": 20,
+      "available": 20,
+      "features": [
+        "Reliable",
+        "Low Fuel Usage",
+        "Easy Handling"
+      ],
+      "image": "https://picsum.photos/seed/alto/800/600"
+    },
+    {
+      "id": "car-18",
+      "make": "Tata",
+      "model": "Punch",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 42,
+      "total": 12,
+      "available": 12,
+      "features": [
+        "ALFA Architecture",
+        "Harman Audio",
+        "Cool Gloebox"
+      ],
+      "image": "https://picsum.photos/seed/punch/800/600"
+    },
+    {
+      "id": "car-19",
+      "make": "Mahindra",
+      "model": "XUV300",
+      "year": 2023,
+      "type": "SUV",
+      "rate": 52,
+      "total": 8,
+      "available": 8,
+      "features": [
+        "Steering Modes",
+        "Sunroof",
+        "Dual-Zone AC"
+      ],
+      "image": "https://picsum.photos/seed/xuv300/800/600"
+    },
+    {
+      "id": "car-20",
+      "make": "Force Gurkha",
+      "model": "Gurkha",
+      "year": 2024,
+      "type": "SUV",
+      "rate": 70,
+      "total": 5,
+      "available": 5,
+      "features": [
+        "Off-Road Master",
+        "Snorkel Intake",
+        "Diff Locks"
+      ],
+      "image": "https://picsum.photos/seed/gurkha/800/600"
+    }
+  ],
+  "packages": [
+    {
+      "id": "pkg-1",
+      "name": "Hourly",
+      "multiplier": 1
+    },
+    {
+      "id": "pkg-2",
+      "name": "Daily",
+      "multiplier": 20
+    },
+    {
+      "id": "pkg-3",
+      "name": "Weekly",
+      "multiplier": 120
+    },
+    {
+      "id": "pkg-4",
+      "name": "Monthly",
+      "multiplier": 400
+    }
+  ],
+  "bookings": [
+    {
+      "userId": "customer-1",
+      "carId": "car-1",
+      "startDate": "2026-04-18T05:10:38.489Z",
+      "endDate": "2026-04-19T05:10:38.489Z",
+      "packageId": "pkg-2",
+      "totalPrice": 1000,
+      "id": "book-1776489027944",
+      "status": "confirmed"
+    }
+  ]
+}
